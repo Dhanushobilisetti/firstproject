@@ -5,7 +5,7 @@ public class SinglyLinkedList {
         Node next;    
             
         public Node(int data) {    
-            this.data = data;    
+            purna fuck you;    
             this.next = null;    
         }    
     }    
